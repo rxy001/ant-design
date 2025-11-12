@@ -1,4 +1,4 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
 
 exports[`renders components/drawer/demo/basic-right.tsx extend context correctly 1`] = `
 Array [
@@ -28,6 +28,7 @@ Array [
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -66,6 +67,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Basic Drawer
             </div>
@@ -146,6 +148,7 @@ Array [
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content acss-1g5mw59"
         role="dialog"
@@ -186,6 +189,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Basic Drawer
             </div>
@@ -238,6 +242,7 @@ Array [
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content acss-1g5mw59"
         role="dialog"
@@ -278,6 +283,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Basic Drawer
             </div>
@@ -411,6 +417,7 @@ exports[`renders components/drawer/demo/config-provider.tsx extend context corre
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -449,6 +456,7 @@ exports[`renders components/drawer/demo/config-provider.tsx extend context corre
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               ConfigProvider
             </div>
@@ -614,6 +622,7 @@ Array [
       style="width: 500px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -652,6 +661,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Drawer with extra actions
             </div>
@@ -770,6 +780,7 @@ Array [
       style="width: 720px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -808,6 +819,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Create a new account
             </div>
@@ -2845,6 +2857,7 @@ Array [
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -2883,6 +2896,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               <p>
                 Loading Drawer
@@ -2955,6 +2969,7 @@ Array [
       style="width: 520px; transform: translateX(-180px);"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -2967,6 +2982,7 @@ Array [
           >
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Multi-level drawer
             </div>
@@ -3002,6 +3018,7 @@ Array [
               style="width: 320px;"
             >
               <div
+                aria-labelledby="test-id"
                 aria-modal="true"
                 class="ant-drawer-content"
                 role="dialog"
@@ -3014,6 +3031,7 @@ Array [
                   >
                     <div
                       class="ant-drawer-title"
+                      id="test-id"
                     >
                       Two-level Drawer
                     </div>
@@ -3073,6 +3091,7 @@ Array [
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -3111,6 +3130,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Drawer without mask
             </div>
@@ -3276,6 +3296,7 @@ Array [
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -3288,6 +3309,7 @@ Array [
           >
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Basic Drawer
             </div>
@@ -3355,6 +3377,7 @@ exports[`renders components/drawer/demo/render-in-current.tsx extend context cor
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -3367,6 +3390,7 @@ exports[`renders components/drawer/demo/render-in-current.tsx extend context cor
           >
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Basic Drawer
             </div>
@@ -3594,6 +3618,7 @@ exports[`renders components/drawer/demo/scroll-debug.tsx extend context correctl
       style="width: 378px; transform: translateX(-180px);"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -3632,6 +3657,7 @@ exports[`renders components/drawer/demo/scroll-debug.tsx extend context correctl
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Drawer
             </div>
@@ -3660,6 +3686,7 @@ exports[`renders components/drawer/demo/scroll-debug.tsx extend context correctl
               style="width: 378px;"
             >
               <div
+                aria-labelledby="test-id"
                 aria-modal="true"
                 class="ant-drawer-content"
                 role="dialog"
@@ -3698,6 +3725,7 @@ exports[`renders components/drawer/demo/scroll-debug.tsx extend context correctl
                     </button>
                     <div
                       class="ant-drawer-title"
+                      id="test-id"
                     >
                       Drawer Sub
                     </div>
@@ -3745,6 +3773,7 @@ exports[`renders components/drawer/demo/scroll-debug.tsx extend context correctl
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -3783,6 +3812,7 @@ exports[`renders components/drawer/demo/scroll-debug.tsx extend context correctl
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               Drawer2
             </div>
@@ -3855,6 +3885,7 @@ Array [
       style="width: 378px;"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-drawer-content"
         role="dialog"
@@ -3893,6 +3924,7 @@ Array [
             </button>
             <div
               class="ant-drawer-title"
+              id="test-id"
             >
               undefined Drawer
             </div>
